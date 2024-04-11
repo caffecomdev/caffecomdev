@@ -5,8 +5,8 @@
 
 ========================================================================
 * Desenvolvedor Front-End Junior 
-* Conhecimento em : HTML | CSS | JAVASCRIPT | REACT
-* Estudando : ASTRO
+* Conhecimento em : HTML | CSS | JAVASCRIPT | 
+* Estudando : REACTJS | ASTRO
 * Portfolio : https://benattidev.com.br - Em construção
 
 
